@@ -19,7 +19,7 @@
     "babel-loader": "^9.1.0",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^11.0.0",
-    "css-loader": "^6.7.3",
+    "css-loader": "^5.2.5",
     "css-minimizer-webpack-plugin": "^4.2.2",
     "html-webpack-plugin": "^5.5.0",
     "imagemin-webpack-plugin": "^2.4.2",
